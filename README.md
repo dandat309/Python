@@ -6,4 +6,6 @@ Cada exercício trabalha conceitos como: tipos primitivos, operadores, condicion
 ## Como executar
 Clone o repositório e rode:
 ```bash
+python exercicio01.py
+python exercicio02.py
 python exercicio03.py
